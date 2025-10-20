@@ -136,9 +136,7 @@ const Index = () => {
           <h2 className="text-5xl md:text-6xl font-bold mb-6 animate-fade-in">
             Качественные аксессуары для памятников
           </h2>
-          <p className="text-xl md:text-2xl mb-8 text-gray-200 max-w-3xl mx-auto">
-            Широкий выбор венков, лент, ваз и цветов для достойной памяти
-          </p>
+          <p className="text-xl md:text-2xl mb-8 text-gray-200 max-w-3xl mx-auto">Широкий выбор бронзовых изделий, а также ваз, лампад из гранита.</p>
           <div className="flex gap-4 justify-center flex-wrap">
             <Button size="lg" className="bg-accent text-accent-foreground hover:bg-accent/90 text-lg px-8">
               <Icon name="ShoppingCart" size={20} className="mr-2" />
